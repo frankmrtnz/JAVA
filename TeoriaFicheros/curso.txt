@@ -1,0 +1,15 @@
+alumno1 asignatura1 7
+alumno2 asignatura3 5
+alumno3 asignatura2 8
+alumno4 asignatura2 1
+alumno5 asignatura1 4
+alumno6 asignatura3 2
+alumno7 asignatura1 3
+alumno8 asignatura2 9
+alumno9 asignatura3 6
+alumno10 asignatura1 4
+alumno11 asignatura1 2
+alumno12 asignatura1 1
+alumno13 asignatura2 8
+alumno14 asignatura2 5
+alumno15 asignatura3 9

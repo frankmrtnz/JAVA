@@ -1,0 +1,2 @@
+Hombre210 tiene con Mujer160 un grado de afinidad de 0.9
+Hombre260 tiene con Mujer150 un grado de afinidad de 0.96

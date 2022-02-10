@@ -1,0 +1,9 @@
+El equipo 01 tiene 13 Goles a Favor, 15 Goles en Contra y 6 Puntos.
+El equipo 02 tiene 18 Goles a Favor, 7 Goles en Contra y 13 Puntos.
+El equipo 03 tiene 12 Goles a Favor, 22 Goles en Contra y 4 Puntos.
+El equipo 04 tiene 21 Goles a Favor, 16 Goles en Contra y 12 Puntos.
+El equipo 05 tiene 13 Goles a Favor, 15 Goles en Contra y 6 Puntos.
+El equipo 06 tiene 9 Goles a Favor, 11 Goles en Contra y 11 Puntos.
+El equipo 07 tiene 2 Goles a Favor, 6 Goles en Contra y 7 Puntos.
+El equipo 08 tiene 12 Goles a Favor, 7 Goles en Contra y 9 Puntos.
+El equipo 10 tiene 15 Goles a Favor, 9 Goles en Contra y 10 Puntos.

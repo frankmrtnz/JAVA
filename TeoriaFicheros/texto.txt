@@ -1,0 +1,4 @@
+Hola, buenos dias
+estoy aprendiendo
+a trabajar con ficheros
+de texto
